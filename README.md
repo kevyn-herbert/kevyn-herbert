@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevyn-herbert!
-- 👀 I’m interested in Machine Learning and to be a Full Stack Dev.
+- 👀 I’m interested in Machine Learning and being a Full Stack Dev.
 - 🌱 I’m currently learning Python and JavaScript.
 - 💞️ I’m looking to collaborate on Projects focuseds on Machine Learning, Privacy and Security, Cryptocurrencies.
 - 📫 You can contact with me in email: santos.kevynh@gmail.com.
