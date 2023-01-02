@@ -16,7 +16,7 @@
 
 ### Contato:
 
-<p align="left"> <a href="https://instagram.com/kevyn_here" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;"/>"
+<p align="left"> <a href="https://instagram.com/kevyn_here" target="_blank"> <img alt="Instagram" src="https://www.flaticon.com/br/icone-gratis/instagram_4494488?term=redes+sociais&page=1&position=4&origin=tag&related_id=4494488"/>"
  
 ### Linguagens e Ferramentas:
   
