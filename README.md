@@ -1,6 +1,6 @@
 
 <a href="https://github.com/kevyn-herbert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevyn-herbert&show_icons=true&theme=synthwave&line_height=30" style="max-width:100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevyn-herbert&show_icons=true&theme=synthwave&line_height=30" style="max-width:100%;" />
   
 </a>
 
