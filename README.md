@@ -1,4 +1,4 @@
-# Olá, me chamo Kevyn Herbert!
+# Olá, me chamo **Kevyn Herbert**!
   Tenho interesse na área de Data Science e Machine Learning.
 <hr>
 
