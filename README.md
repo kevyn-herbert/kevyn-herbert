@@ -7,4 +7,7 @@
   </a>
 </div>
 
+<div>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" width="100" height="30"   align="middle">
+
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
