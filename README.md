@@ -1,4 +1,5 @@
-
+# Olá, me chamo Kevyn Herbert!
+## Gosto de 
 <a href="https://github.com/kevyn-herbert">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevyn-herbert&show_icons=true&theme=synthwave&line_height=30" />
   
@@ -11,13 +12,13 @@
 
 <hr>
 
-### Progresso
+### Progresso:
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
  
-  <h2>Linguagens e Ferramentas:</h2>
+### Linguagens e Ferramentas:
   
   <p align="left"> <a href="https://git-scm.com/doc" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
