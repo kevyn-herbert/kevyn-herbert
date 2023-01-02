@@ -2,7 +2,7 @@
 <a href="https://github.com/kevyn-herbert">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kevyn-herbert&show_icons=true&theme=synthwave&line_height=30" style="max-width:100%;" />
   
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-herbert&theme=synthwave&layout=compact&hide=vue,pascal,cmake,c" style="max-width:100%;">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-herbert&theme=synthwave&layout=compact&hide=vue,pascal,cmake,c" style="max-width:100%;">
        
   </a>
 
