@@ -10,7 +10,8 @@
 </a>
 
 <hr>
-### Progresso:
+
+<h2>Progresso:</h2>
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
