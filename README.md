@@ -1,5 +1,8 @@
 # Olá, me chamo Kevyn Herbert!
   Tenho interesse na área de Data Science e Machine Learning.
+<hr>
+
+### Status:
 
 <a href="https://github.com/kevyn-herbert">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevyn-herbert&show_icons=true&theme=synthwave&line_height=30" />
