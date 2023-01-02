@@ -13,6 +13,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-herbert&theme=synthwave&layout=compact" style="max-width:100%;" style="max-width:100%;" />
        
 </a>
+
+### Contato:
+
+<p align="left"> <a href="https://instagram.com/kevyn_here" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=instagram&logoColor=white" style="max-width:100%;"/>"
  
 ### Linguagens e Ferramentas:
   
@@ -24,7 +28,7 @@
 
 <hr>
 
-### ***Atividade***:
+### Atividade:
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
