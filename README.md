@@ -8,12 +8,6 @@
   
 </div>
 
-<div>
-  
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" width="100" height="30"   align="middle">
- 
-</div>
-
 <hr>
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
@@ -21,9 +15,10 @@
 <hr>
 
 <div>
-  
-  <a href="https://github.com/kevyn-herbert">
-   <img alt="Meu Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;"/>
- </a>
+  <p align="left"> <a href="https://git-scm.com/" target="_blank"> 
+    
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    
+    </a>
   
 </div>
