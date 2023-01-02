@@ -33,3 +33,7 @@
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
+
+##### ***Atribuições***:
+  <a href="https://www.flaticon.com/br/icones-gratis/logotipo-do-instagram" title="logotipo do instagram ícones">Logotipo do Instagram criado por Laisa Islam Ani - Flaticon>
+  </a>
