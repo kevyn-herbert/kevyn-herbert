@@ -1,5 +1,5 @@
-# Olá, me chamo **Kevyn Herbert**!
-  Tenho interesse na área de Data Science e Machine Learning.
+# Olá, me chamo Kevyn Herbert!
+  Tenho interesse na área de ***Data Science*** e ***Machine Learning***.
 <hr>
 
 ### Status:
