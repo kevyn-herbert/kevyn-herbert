@@ -1,5 +1,5 @@
 # Hello, I'm Kevyn Herbert!
-  🙋‍♂️ I'm interested in ***Data Science*** e ***Machine Learning***. <br>
+  🙋‍♂️ I'm interested in ***Data Science*** and ***Machine Learning***. <br>
   🗣 You can talk with me about **Games**, **Music**, **Programming and Languages
   *(Of Programming and curiosities <br>of Latin languages, principally Spanish and Portuguese🤗)***. <br>
 <hr>
