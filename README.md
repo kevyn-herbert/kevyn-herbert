@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/kevyn-herbert">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-herbert&theme=synthwave&layout=compact" style="max-width:100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-herbert&theme=synthwave&layout=compact" />
        
 </a>
 
