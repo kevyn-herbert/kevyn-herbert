@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://instagram.com/kevyn_here" target="_blank"> <img alt="Instagram" src=""/>" </a>
   <a href="https://twitter.com/kevyn_here" target="_blank"> <img alt="Twitter" src=""/>" </a>
-  <a href="https://linkedin.com/kevyn_here" target="_blank"> <img alt="LinkedIn" src=""/>" </a>
+  <a href="https://linkedin.com/in/kevyn-herbert" target="_blank"> <img alt="LinkedIn" src=""/>" </a>
  
 ### Linguagens e Ferramentas:
   
