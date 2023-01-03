@@ -37,6 +37,6 @@
 <hr>
 
 ##### ***Atribuições***:
-  <a href="https://www.flaticon.com/br/icones-gratis/logotipo-do-instagram" title="logotipo do instagram ícones">Logotipo do Instagram criado por Laisa Islam Ani - Flaticon</a> <br>
+  <a href="https://www.flaticon.com/br/icones-gratis/logotipo-do-instagram" height="20" title="logotipo do instagram ícones">Logotipo do Instagram criado por Laisa Islam Ani - Flaticon</a> <br>
   <a href="https://www.flaticon.com/br/icones-gratis/logotipo-do-twitter" title="logotipo do twitter ícones">Logotipo do Twitter criado por Md Tanvirul Haque - Flaticon</a> <br>
   <a href="https://www.flaticon.com/br/icones-gratis/linkedin" title="linkedin ícones">Logotipo do LinkedIn criado por Freepik - Flaticon</a>
