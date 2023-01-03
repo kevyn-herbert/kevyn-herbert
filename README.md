@@ -1,5 +1,7 @@
-# Olá, me chamo Kevyn Herbert!
-  Tenho interesse na área de ***Data Science*** e ***Machine Learning***.
+# Hello, I'm Kevyn Herbert!
+  🙋‍♂️ I'm interested in ***Data Science*** e ***Machine Learning***.
+  🗣 You can talk with me about Games, Music, Programming and Languages 
+  (Of Programming and curiosities of Latin languages, principally Spanish and Portuguese🤗).
 <hr>
 
 ### Status:
