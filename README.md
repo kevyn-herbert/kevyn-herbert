@@ -16,9 +16,9 @@
 
 ### Contato:
 
-<p align="left"> <a href="https://instagram.com/kevyn_here" target="_blank"> <img alt="Instagram" src="icons/instagram.png"/ height="40">" </a>
-  <a href="https://twitter.com/kevyn_here" target="_blank"> <img alt="Twitter" src=""/>" </a>
-  <a href="https://linkedin.com/in/kevyn-herbert" target="_blank"> <img alt="LinkedIn" src=""/>" </a>
+<p align="left"> <a href="https://instagram.com/kevyn_here" target="_blank"> <img alt="Instagram" src="icons/instagram.png" height="40" /> </a>
+  <a href="https://twitter.com/kevyn_here" target="_blank"> <img alt="Twitter" src="icons/twitter.png" height="40" />" </a>
+  <a href="https://linkedin.com/in/kevyn-herbert" target="_blank"> <img alt="LinkedIn" src="icons/linkedin.png" height="40" />" </a>
  
 ### Linguagens e Ferramentas:
   
